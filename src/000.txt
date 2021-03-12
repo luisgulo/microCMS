@@ -1,0 +1,2 @@
+Página de Inicio
+Bienvenido. El servidor está funcionando correctamente.
