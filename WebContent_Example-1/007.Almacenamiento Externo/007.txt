@@ -1,0 +1,4 @@
+<code>Tarjetas MMC</code>:·
+Tambien denominadas MultiMediaCardPracticamente idéntica a la SD, pero sin la pestaña de protección contra escritura.·
+Su forma está inspirada en el aspecto de los antiguos disquetes de 3,5 pulgadas.·
+Tienen una capacidad de hasta de 512 GB de almacenamiento. 

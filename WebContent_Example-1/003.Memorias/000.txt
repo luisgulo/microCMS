@@ -1,0 +1,2 @@
+Memorias RAM, ROM, Flash 
+El almacen temporal de datos e instrucciones a procesar.

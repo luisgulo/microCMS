@@ -1,0 +1,4 @@
+<code>SATA</code>: Serial ATA.·
+Es el estandar actual, es una versión mejorada de IDE/ATA.·
+Para conectar discos duros, CDs y DVDs.·
+

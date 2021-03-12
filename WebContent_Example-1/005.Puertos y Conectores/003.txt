@@ -1,0 +1,93 @@
+<code>Optical Audio (Toslink)</code>: conector óptico que se utiliza para salida de audio en formato digital. Suele conectarse a un decodificador de audio digital mediante cable óptico.
+·
+<code>USB A (1.0 /1.1 /2.0)</code>: conector estandar USB (Universal Serial Bus) utilizado para conectar dispositivos de entrada como teclados, ratones, impresoras, memorias usb o discos externos.
+·
+<code>USB B (3.0)</code>: conector estandar USB (Universal Serial Bus) utilizado para conectar dispositivos de entrada como teclados, ratones, impresoras, memorias usb o discos externos. Suele ser compatible con las versiones anteriores, pero trabaja a una mayor velocidad (permite una velocidad de transmisión de 480 Mbit/s). El puerto suele estar identificado como High Speed, con una SS o fisicamente en color azul.
+·
+<code>USB Tipo C (3.1)</code>: es nuevo conector estandar USB (Universal Serial Bus) que tiene 24 conexiones y es utilizado para conectar dispositivos de entrada como teclados, ratones, impresoras, memorias usb o discos externos. Suele estar incorporado en la mayoría de los móviles de nueva generación. El USB 3.1 Gen 1 ofrece una velocidad de transferencia de 5 Gbps, mientras que el USB 3.1 Gen 2 puede trabajar a una velocidad de transmisión de hasta 10 Gbit/s.
+·
+<code>USB A 3.0</code>: es una evolución del conector estandar USB (Universal Serial Bus) utilizado para conectar dispositivos de entrada en su versión 3.0, que permite una mayor velocidad de transferencia que los anteriores. Para diferenciar este conector, de mismo tamaño y forma que sus versiones anteriores, se suele identificar con el color azul o las siglas SS.
+·
+<code>USB A 3.1</code>: sigue siendo USB 3.0, pero ofrece un rendimiento diez veces mayor y una gestión de la alimentación mejorada. Hay que recorder que sus especificaciones técnicas no han cambiado frente a la version USB 3.0. Las unidades USB 3.1 ahorran tiempo transfiriendo los archivos más rápido que las unidades USB 2.0. Las unidades USB 3.1 Gen 2 tienen compatibilidad inversa tanto con los puertos y conectores USB 3.0/3.1 Gen 1 como con los de USB 2.0. Puede ahorrar tiempo incluso usando unidades USB 3.1 con sus dispositivos anfitriones de USB 2.0.
+·
+<code>USB A 3.2</code>: sigue siendo USB 3.0, pero llegará en 2019 y permitirá transferencias de 20 Gbps.
+·
+<code>USB 4</code>: La arquitectura USB 4 estará basado en la especificación del protocolo Thunderbolt recientemente aportada por Intel Corporation. Se duplica el ancho de banda del USB y permite múltiples protocolos de visualización y datos simultáneos, permitiendo alcanzar transferencias de 40 Gbps. El estándar será compatible con versiones anteriores con USB 3.2, USB 2.0 y Thunderbolt 3.
+·
+<code>Firewire 4 pin (iLink)</code>: este conector ha sido utilizado para transferencia datos en formato digital con cámaras digitales y videocámaras a PCs. Es el más antiguo de los conectores tipo Firewire. Su popularidad ha disminuido entre los fabricantes de hardware, y se ha sustituido por la interfaz USB en sus versiones 2.0 y 3.0, o la interfaz Thunderbolt.
+·
+<code>Firewire 400 1394a</code>: este conector ha sido utilizado para transferencia datos en formato digital con cámaras digitales y videocámaras a PCs. Una versión que ofrece más velocidad de transferencia que el Firewire 4 pin.
+·
+<code>Firewire 800/3200 1394b/c</code>: este conector ha sido utilizado para transferencia datos en formato digital con cámaras digitales y videocámaras a PCs. En su ultima revisión permite velocidades de transferencia de hasta 3200 Mbit/s. Como todos los puertos FIrewire se ha sustituido por los fabricantes por la interfaz USB en sus versiones 2.0 y 3.0, o la interfaz Thunderbolt.
+·
+<code>Ethernet 8P8C (RJ-45)</code>: uno de los conectores más utilizado en la actualidad a nivel de red. Es el conector utilizado para conectar los PC a electrónica de red como routers o switch para dotarlos de conectividad. La velocidad de transferencia, además del tipo de tarjeta de red, depende también del tipo de cable que se conecta (su categoría y trenzado. Los más utilizados son UTP-Cat 6 o UTP Cat 5e).
+·
+<code>Modem (RJ-11)</code>: este conector RJ-11 ha sido el utilizado por la RTB (Red telefónica básica) para los servicios de telefono, fax y en sus últimos años para la conectividad a Internet a través de al linea telefónica. En la actualidad el uso ha decrecido utilizándose únicamente para servicios de teléfono o fax, y en muchos casos ha sido sustituido por el RJ-45 para ofrecer servicios de telefonía IP.
+·
+<code>Apple Desktop Bus - ADB</code>: conector utilizado en los primeros equipos Mac para conectar dispositivos en serie.
+·
+<code>Mac Serial</code>: conector utilizado en los primeros equipos Mac para conectar dispositivos en serie.
+·
+<code>PS/2</code>: este conector aún sigue utilizándose en algunos equipos aunque se ha sustituido por la interfaz USB en sus versiones 2.0 y 3.0. El dispositivo habitual que se conecta a él suele ser un teclado PS/2.
+·
+<code>DE-9F</code>: este conector se utilizaba para conectar algunos periféricos como Joystick o gamepad, aunque rápidamente ha quedado en desuso. Envía los datos bit a bit por el mismo hilo.
+·
+<code>DB-25 Puerto Serie/Com</code>: conector utilizado para periféricos en desuso, como algunos ratones o impresoras matriciales. Envía los datos bit a bit por el mismo hilo.
+·
+<code>DB-9 Puerto Serie RS232</code>: conector serie que aun es utilizado para la conexión con maquinas o electrónica de red. Ha sido el conector más utilizado para la transferencia de datos binarios y todavía se sigue utilizando. Además de utilizarse hace años para conectar periféricos tan utilizados hoy en día como el ratón.
+·
+<code>e-SATA</code>: Serial ATA, S-ATA o SATA es una interfaz de transferencia de datos entre la placa base y algunos dispositivos de almacenamiento, como la unidad de disco duro, lectora y grabadora de discos ópticos. En la actualidad la mayoría de los discos internos utilizan este conector tipo SATA. El conector SATA proporciona mayores velocidades, mejor aprovechamiento cuando hay varias unidades, mayor longitud del cable de transmisión de datos y capacidad para conectar unidades al instante, es decir, insertar el dispositivo sin tener que apagar la computadora o que sufra un cortocircuito como con los viejos conectores.
+·
+<code>Puerto paralelo tipo Centronics (Centronics Parallel) 36 pin</code>: conector o puerto paralelo utilizado hace años para la conexión de impresoras. Su popularidad ha disminuido entre los fabricantes de hardware, y se ha sustituido por la interfaz USB en sus versiones 2.0 y 3.0
+·
+<code>Centronics SCSI 50 pin</code>: conector utilizado para la interconexión de dispositivos SCSI. Utilizado por discos duros SCSI e incluso por los sistemas RAID SCSI, pero la aparición de discos SATA de gran capacidad y bajo coste ha hecho que este conector tienda a desaparecer.
+·
+<code>AT Keyboard</code>: otro conector ya en desuso debido a la estandarizan del conector USB 1.0 / 2.0 que es utilizado desde hace años para la conexión de un teclado serie.
+·
+<code>50 pin SCSI 2</code>: una versión más moderna del conector SCSI. Utilizado por discos duros SCSI e incluso por los sistemas RAID SCSI, pero la aparición de discos SATA de gran capacidad y bajo coste ha hecho que este conector tienda a desaparecer.
+·
+<code>Surround Sound (mini jack 3.5mm)</code>: conectores de 3.5 mm para audio identificados por los colores negro, naranja y blanco utilizados para audio 5.1 o 7.1. La mayoria de las placas modernas han utilizado estos conectores hasta la estandarización del conector de audio óptico o el HDMI.
+·
+<code>Stereo / Line In / Mic</code>: conectores de 3.5 mm para audio identificados por los colores verde, azul y rosa. Estos se siguen utilizando hoy en dia para la conexión de altavoces/auriculares estereo, microfonos y entrada de linea.
+·
+<code>Digital Audio RCA</code>: conector utilizado para la transferencia de audio en formato digital mediante conector RCA. Este tipo de conector esta empezando a ser reemplazado por el conector HDMI para la transferencia de contenido multimedia.
+·
+<code>AAUI</code>: conector para video por componente y YUV (colores rojo, azul y verde). Ha sido utilizado en equipos de Apple.
+·
+<code>Audio y Vídeo Compuesto</code>: conectores coaxiales utilizados para audio estéreo (rojo y blanco) y video (amarillo).
+·
+<code>S-Vídeo</code>: conector de vídeo compuesto que al igual que los conectores de video por componentes transmite la información del color (rojo, azul y verde).
+·
+<code>Vídeo por componentes</code>: conector de vídeo compuesto que al igual que el conector S-Vídeo transmite la información del color por componentes (rojo, azul y verde).
+·
+<code>F-Connector RF/COAX</code>: conector para cable coaxial de radiofrecuencia, de uso común en la televisión terrestre por antena aérea, televisión por cable y universal para la televisión por satélite y los cablemódems.
+·
+<code>Puerto Paralelo/SCSI 1/DB-25F</code>: conector conocido como puerto paralelo cuya principal característica es que los bits de datos viajan juntos, enviando un paquete de byte a la vez. Este conector aún sigue utilizándose por algunos periféricos antiguos, aunque cada vez más se utilicen conectores USB 1.0 / 2.0 en su lugar.
+·
+<code>Mac Video/MIDI/gameport</code>: puerto utilizado para la conexión de algunos periféricos como Joystick o gamepad,
+·
+<code>Mini DisplayPort</code>: conector utilizado para vídeo/audio, también abreviado como MiniDP o mDP, es una versión reducida de la interfaz digital de audio y video DisplayPort.
+·
+<code>Mini DVI</code>: conector utilizado para vídeo digital, al igual que el conector DVI, en formato mini.
+·
+<code>Mini VGA</code>: conector utilizado para vídeo analógico, al igual que el conector VGA/SVGA, en formato mini.
+·
+<code>Apple Hi-Density Video HDI-4S</code>
+·
+<code>Apple Display Connector - ADC</code>: es un conector propietario de Apple usado para sus LCDs de pantalla plana y su último monitor CRT.
+·
+<code>LFH60 (dual DVI-D)</code>: conector que se utiliza para las tarjetas de video. Proporciona dos salidas DVI o VGA en un solo conector.
+·
+<code>DMS59 (dual DVI-D)</code>: conector que se utiliza para las tarjetas de video. Proporciona dos salidas DVI o VGA en un solo conector.
+·
+<code>HDMI</code>: conector digital utilizado para la transferencia de audio y video. El conector HDMI provee una interfaz entre cualquier fuente de audio y vídeo digital , como pueden ser monitores, televisores, decodificadores de audio...
+·
+<code>Micro DVI</code>: conector digital utilizado para la conexión de monitores y pantallas en formato micro.
+·
+<code>DisplayPort</code>: puerto destinado principalmente para la transmisión de Vídeo entre una computadora y su monitor, que se encuentra libre de licencias y cánones.
+·
+<code>DVI Video</code>: conector digital utilizado para la conexión de monitores y pantallas. Este conector empezó a reemplazar al conector analógico VGA. Con el paso de los años se esta empezando a sustituir por el conector HDMI para transmitir vídeo, que también es digital, y ofrece mayores posibilidades de conectividad.
+·
+<code>VGA/SVGA</code>: puerto para vídeo analógico VGA / SVGA ha sido utilizado durante años, y aun se utiliza para conectar pantallas analógicas a los equipos. Aunque aun se utiliza, su uso en los nuevos equipos se ha ido reduciendo frente al nuevo conector DVI o el HDMI que son digitales.
+<hr>
+

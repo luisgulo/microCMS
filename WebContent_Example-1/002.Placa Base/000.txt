@@ -1,0 +1,2 @@
+Placa Base
+Circuito impreso donde se colocan los componentes del PC.

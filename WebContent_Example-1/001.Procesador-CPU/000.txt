@@ -1,0 +1,2 @@
+Procesador/CPU
+Es la parte mas importante del ordenador.

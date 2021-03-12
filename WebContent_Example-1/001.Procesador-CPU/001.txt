@@ -1,0 +1,23 @@
+<b>El Microprocesador</b>·
+Es la parte más importante del ordenador.
+Se encarga de procesar los datos y realizar las operaciones aritmético-lógicas para despues enviarlas al exterior
+·
+La unidad central de procesamiento, conocida por las siglas <code>CPU</code>, del inglés: <small>Central Processing Unit</small>, es el hardware dentro de un ordenador u otros dispositivos programables, su trabajo es interpretar las instrucciones de un programa informático mediante la realización de las operaciones básicas aritméticas, lógicas y externas (provenientes de la unidad de entrada/salida).·
+ Su diseño y avance ha variado notablemente desde su creación, el cual era algo demasiado grande y que se calentaba mucho, a la actualidad, que es pequeño, y sí se calienta pero no demasiado como en la antigüedad.·
+·
+Un ordenador puede contener más de una CPU (multiprocesamiento).·
+En la actualidad, los microprocesadores están constituidos por un único circuito integrado (chip) aunque existen los procesadores multinúcleo (varias CPU en un solo circuito integrado).·
+Un circuito integrado que contiene una CPU también puede contener los dispositivos periféricos, y otros componentes de un sistema informático; similar a un microcontrolador (menos potente en RAM) se le denomina sistema en un chip (SoC).·
+·
+Los componentes de la CPU son:·
+·
+- Unidad aritmético lógica (ALU): realiza operaciones aritméticas y lógicas.·
+- Unidad de control (CU): dirige el tráfico de información entre los registros de la CPU y conecta con la ALU las instrucciones extraídas de la memoria.·
+- Registros internos: no accesibles (de instrucción, de bus de datos y bus de dirección) y accesibles de uso específico (contador programa, puntero pila, acumulador, flags, etc.) o de uso general.·
+·
+<hr>
+<b>Procesadores multinúcleo (multi-core)</b>·
+Un procesador multinúcleo es un sólo componente (chip) con dos o más microprocesadores independientes (llamados <code>núcleos</code>), que son las unidades que leen y ejecutan las instrucciones del programa.·
+Cuando se habla de un que un equipo dispones de un procesador <i>quad-core de 2 GHz</i>, significa que los cuatro núcleos trabajan a 2 Ghz.·
+En cuanto a rendimiento un procesador multi-core tiene un rendimiento menor a un ordenador con cuatro microprocesadores separados.·
+

@@ -1,0 +1,51 @@
+<b>Los Buses</b>·
+Un bus se puede definir como una linea de interconexión que transporta información, constituida por varios hilos conductores (en sentido físico) o varios canales (en sentido de la lógica), por cada una de las cuales se transporta un bit de información.· 
+El número de líneas que forman los buses (ancho del bus) es fundamental: Si un bus está compuesto por 16 líneas, podrá enviar 16 bits al mismo tiempo.·
+·
+Los buses interconexionan toda la circuitería interna. Es decir, los distintos subsistemas del ordenador intercambian datos gracias a los buses.·
+·
+<b>Tipos de Buses</b>·
+<code>Bus de Direcciones</code>: Este es un bus unidireccional, la información fluye es una sola dirección, de la CPU a la memoria ó a los elementos de entrada y salida. La CPU sola puede colocar niveles lógicos en las n líneas de dirección, con la cual se genera 2n posibles direcciones diferentes. Cada una de estas direcciones corresponde a una localidad de la memoria ó dispositivo de E/S.·
+
+<code>Bus de Datos</code>: Este es un bus bidireccional, pues los datos pueden fluir hacia ó desde la CPU. Los terminales de la CPU, pueden ser entradas ó salidas, según la operación que se este realizando (lectura ó escritura). En algunos microprocesadores, el bus de datos se usa para transmitir otra información además de los datos (por ejemplo, bits de dirección ó información de condiciones).·
+
+<code>Bus de Control</code>: Este conjunto de señales se usa para sincronizar las actividades y transacciones con los periféricos del sistema. Algunas de estas señales, como R/W , son señales que la CPU envía para indicar que tipo de operación se espera en ese momento. Los periféricos también pueden remitir señales de control a la CPU, como son INT, RESET, BUS RQ.·
+·
+<b>Buses Internos vs Externos</b>·
+Podemos clasificar a los buses, según el criterio de su situación física:·
+<code>Buses internos</code>: Este mueve datos entre los componentes internos del microprocesador.·
+<code>Buses Externos</code>: Este se utiliza para comunicar el micro y otras partes, como periféricos y memoria.·
+·
+
+<b>Tipos de Buses para PCs</b>·
+
+<code>Buses ISA</code>: Industry Standard Arquitecture. Son buses de 8 bits.·
+
+<code>Buses MCA</code>: Arquitectura de Bus Microcanal. Basada en
+ranuras de expansión 32 bits, introdujo cambios de diseño y nuevos conceptos de gestión y funcionamiento del bus.·
+
+<code>Buses EISA</code>: Extendes Industry Standar Arquitecture. Compatibilidad con ISA y velocidad de 32 bits.·
+
+<code>Buses VESA</code>: Video Electronica Standar Asociation. ISA+EISA funcionando al ritmo del microprocesador, dejando mayor tiempo libre al microprocesador central. Tiene un límite de sólo 2 ó 3 buses en el equipo.·
+
+<code>Buses PCI</code>: Peripherical Component Interconect o Interconexión a componentes perimetrales. Similares a VESA, pero la conexión del bus con el microprocesador se efectúa por intermedio de un chip adicional que simplifica y suprime las limitaciones de la conexión directa. Permite hasta 10 ranuras de expansión simultáneas pero direccionables, pero deben tener un orden determinado.·
+
+<code>Bus AGP</code>: Advanced Graphics Port  o Puerto Avanzado de Gráficos. Un nuevo sistema para conectar periféricos en la placa base del PC, los datos van del microprocesador al periférico.·
+Su propio nombre nos define este nuevo bus: Puerto. Se comunica con el microprocesador de manera más directa que otros buses.·
+
+<code>PCMCIA</code>: CardBus y PC Card. Los ordenadores portátiles tienen con dos slots para adaptadores de "PC Card". En un portátil cada conector es en si mismo un dispositivo de I/O.·
+
+<code>IDE</code> <small>o</small> <code>ATA</code>: Destinado a los dispositivos de almacenamiento masivo de datos como Discos duros, CD-ROM, DVDs, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+

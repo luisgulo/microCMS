@@ -1,0 +1,4 @@
+<code>Pendrive</code> <small>o</small> <code>USB Flash</code>:·
+Usa un tipo de EEPROM para almacenar los datos.·
+Tiene un tiempo de vida limitado, menor a 20 años, además de tener un número limitado de escrituras (aprox. 1 millón).·
+Se utiliza actualmente más que como sistema de almacenamiento, como dispositivo para iniciar diferentes Sistemas Operativos.

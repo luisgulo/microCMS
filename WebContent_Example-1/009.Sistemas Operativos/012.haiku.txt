@@ -1,0 +1,8 @@
+<code>Haiku</code>·
+Haiku es un sistema operativo gratuito y de código abierto compatible con BeOS ahora descontinuado.·
+·
+Su desarrollo comenzó en 2001, y el sistema operativo se convirtió en autohospedado en 2008.· 
+Haiku R1 tiene como objetivo ser compatible con BeOS tanto a nivel fuente como binario, lo que permite que el software escrito y compilado para BeOS se compile y ejecute sin modificaciones en Haiku.·
+·
+Haiku cuenta con el apoyo de Haiku, Inc., una organización sin fines de lucro.·
+<hr>

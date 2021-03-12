@@ -1,0 +1,2 @@
+Sistemas Operativos (S.O.)
+Programas para usar la memoria, disco, almacenamiento y perifericos del PC.

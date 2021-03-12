@@ -1,0 +1,43 @@
+<hr>
+·
+<b>Tipos de periféricos</b>·
+
+<code>De Entrada</code>·
+-Teclado·
+-Ratón·
+-Panel táctil·
+-Tableta digitalizadora·
+-Joystick·
+-Micrófono·
+-Cámara·
+-Escaner·
+-Lector de huellas·
+-Lector de código de barras·
+-Sensores·
+·
+<code>De Salida</code>·
+-Monitor·
+-Impresora (Laser, Tinta, 3D)·
+-Proyectores·
+-Altavoz·
+-Auriculares·
+-MIDI·
+·
+<code>De Entrada y Salida</code>·
+-Pantalla táctil·
+-Cámara (Fotográfica, Vídeo)·
+-Impresora multifuncion (escaner+impresora)·
+·
+<code>De Almacenamiento</code>·
+-Memoria·
+-Discos duros (HDD y SSD)
+-Unidades externas (Pendrive, Tarjetas SD y MMC)·
+·
+<code>De Comunicaciones</code>·
+-Tarjetas de Red·
+-Modems·
+-Hubs (concentradores)·
+-Switches (conmutadores de red)·
+-Routers (enrutadores)·
+-Inalambrico (Wifi, Bluetooth)·
+·

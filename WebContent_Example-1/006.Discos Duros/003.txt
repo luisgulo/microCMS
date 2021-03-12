@@ -1,0 +1,8 @@
+<hr>
+<b>Discos duros SDD</b>·
+·
+<code>SDD: Solid state disk (Disco de estado sólido)</code>·
+Almacena la información en memorias Flash NAND no volátiles.·
+Los SSD no contienen ninguna parte movil, por lo que son más rápidos y consumen menos.·
+Su mayor problema es que tienen una vida limitada, determinada a un numero de lecturas y escrituras.·
+Utiliza conectores de tipo SATA.

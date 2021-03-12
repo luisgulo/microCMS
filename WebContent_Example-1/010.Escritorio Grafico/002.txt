@@ -1,0 +1,7 @@
+<code>Escritorios de Linux</code>·
+Los escritorios de Microsoft (Windows) y el de Apple (OS X), tienen pocas opciones nativas de personalización.·
+Es lo que te entrega el fabricante y poco más puedes modificar en él.·
+Sin embargo, Linux dispone de multitud de escritorios y gestores de ventanas, que además de tener aspectos diferentes son totalmente personalizables por el usuario.·
+<hr>
+Algunos de los Escritorios para Linux más extendidos y usados son:·
+

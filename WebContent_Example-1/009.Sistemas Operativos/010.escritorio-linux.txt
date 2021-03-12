@@ -1,0 +1,7 @@
+<code>Escritorio GNU/Linux</code>·
+Escritorio GNU/Linux, se refiere al uso que se le da al sistema operativo GNU/Linux, coloquialmente llamado "Linux" al ser instalado en un ordenador personal.·
+El escritorio linux generalmente tendrá instalado por defecto paquetes destinados al "usuario final".·
+Algunas distribuciones Linux se han centrado específicamente en el rol de escritorio.·
+Linux ofrece muchas alternativas de entornos de escritorio, los más populares son: GNOME, KDE, XFCE, MATE y Cinnamon.·
+Una de las ventajas de GNU/Linux es que se puede escoger y personalizar cualquier escritorio según desee el usuario y darle cualquier aspecto incluso imitando a MacOSX o Windows.·
+<hr>

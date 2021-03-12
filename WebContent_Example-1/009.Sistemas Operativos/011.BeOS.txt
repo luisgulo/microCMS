@@ -1,0 +1,5 @@
+<code>BeOS</code>·
+BeOS fue un sistema operativo para PC desarrollado por Be Incorporated en 1990, orientado principalmente a proveer alto rendimiento en aplicaciones multimedia. A pesar de la creencia común fomentada por la inclusión de la interfaz de comandos Bash en el sistema operativo, el diseño de BeOS no estaba basado en UNIX.·
+·
+BeOS cuenta con un micronúcleo modular propio, el cual ha sido altamente optimizado para trabajo con audio, video y gráficos, y animaciones en tres dimensiones. A diferencia de UNIX, BeOS es un sistema operativo monousuario.·
+<hr>

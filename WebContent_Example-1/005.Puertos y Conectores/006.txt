@@ -1,0 +1,7 @@
+<hr>
+<b>Conectores USB</b>·
+Respecto a los conectores USB, actualmente hay de tres tipos, con variantes mini y micro:·
+- <code>USB Tipo A</code>·
+- <code>USB Tipo B</code>·
+- <code>USB Tipo C</code>·
+

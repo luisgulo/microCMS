@@ -1,0 +1,13 @@
+<b>Periféricos</b>·
+En informática, periférico es la denominación genérica para designar al aparato o dispositivo auxiliar e independiente conectado a la unidad central de procesamiento de una computadora.·
+·
+Se consideran periféricos a las unidades o dispositivos de hardware a través de los cuales el ordenador se comunica con el exterior, y a los sistemas que almacenan o archivan la información, sirviendo de memoria auxiliar de la memoria principal.·
+·
+Se considera periférico a los dispositivos que no pertenecen al núcleo fundamental del ordenador, formado por la unidad central de procesamiento (CPU) y la memoria principal, permitan realizar operaciones de entrada/salida (E/S) complementarias al proceso de datos que realiza la CPU.·
+·
+Estas tres unidades básicas en un ordenador son: CPU, memoria central y el subsistema de E/S.·
+Están comunicadas entre sí por tres buses o canales de comunicación:·
+-<code>Direcciones</code>: para seleccionar la dirección del dato o del periférico al que se quiere acceder.·
+-<code>Control</code>: básicamente para seleccionar la operación a realizar sobre el dato (principalmente lectura, escritura o modificación).·
+-<code>Datos</code>: por donde circulan los datos.·
+

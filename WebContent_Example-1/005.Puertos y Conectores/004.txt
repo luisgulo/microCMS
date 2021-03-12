@@ -1,0 +1,4 @@
+<b>Conectores de Dispositivos</b>·
+Son los 'cables' que se conectan por una parte a los puertos hardware de los equipos y por la otra al dispositivo que se quiera conectar (impresora, escaner, ratón, teclado, monitor, etc...)·
+
+ 

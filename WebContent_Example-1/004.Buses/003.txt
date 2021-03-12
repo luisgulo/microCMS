@@ -1,0 +1,2 @@
+·
+<code>eSATA</code>: External SATA. Para conectar externamente discos duros. Compatible con USB.

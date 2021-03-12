@@ -1,0 +1,20 @@
+<b>Memoria RAM</b>·
+La memoria RAM es un componente básico en cualquier ordenador.· 
+La RAM puede ser  o <code>DRAM</code> (Dynamic RAM).·
+·
+Velocidad, latencia y canales son tres aspectos que afectan de forma directa al rendimiento de la memoria RAM.·
+Sin embargo, la capacidad es lo principal a tener en cuenta, poca cantidad de RAM, afectará rendimiento global de un equipo.·
+·
+Los tipos de memoria disponibles para un equipo son:·
+<code>SRAM</code>: Static RAM. Es la memoria caché de los procesadores y de los discos duros, cámaras, impresoras, etc.·
+<code>DRM</code>: Dynamic RAM. Necesita un "refresco" periódico, o se pierden sus datos (años 70-90).·
+<code>SDRAM</code>: Synchronous dynamic random-access memory. Se sincroniza con la velocidad del procesador.·
+<code>SDR SDRAM</code>: Single Data Rate Synchronous Dynamic RAM. Una instruccion de lectura y otra de escritura por ciclo de reloj.·
+<code>DDR</code>: Double Data Rate Synchronous Dynamic RAM. Dos instrucciones lectura/escritura por ciclo. Funciona a 200 MHz, con un consumo de 2,5V.·
+<code>DDR2</code>: Funciona a una velocidad de 533 MHz, su consumo es de 1,8V.·
+<code>DDR3</code>: Alcanza una velocidad de 800 MHz consumiendo solo 1,5V.·
+<code>DDR4</code>: Una velocidad de 1600 MHz y un consumo de 1,2V.·
+<code>DDR5</code>: Esta nueva memoria alcanza 4800 MHz consumiendo unicamente 1,1V.·
+<code>GDDR</code>: Memoria Gráfica específicamente diseñada para el renderizado de vídeo. La ultima version es GDDR6.·
+
+

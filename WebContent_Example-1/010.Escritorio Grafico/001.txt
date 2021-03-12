@@ -1,0 +1,9 @@
+<code>Escritorio Gráfico</code>·
+Un entorno de escritorio o escritorio gráfico, es un conjunto de software para ofrecer al usuario de una computadora una interacción amigable y cómoda.·
+Es una implementación de interfaz gráfica de usuario que ofrece facilidades de acceso y configuración, como barras de herramientas e integración entre aplicaciones con habilidades como arrastrar y soltar.·
+·
+Los entornos de escritorios por lo general no permiten el acceso a todas las características que se encuentran en un sistema operativo, por la ausencia de una interfaz gráfica. En su lugar, la tradicional interfaz de línea de comandos (CLI) todavía se utiliza cuando el control total sobre el sistema operativo se requiere en estos casos.·
+·
+Un entorno de escritorio por lo general consta de iconos, ventanas, barras de herramientas, carpetas, fondos de pantalla y widgets de escritorio.·
+·
+<hr>

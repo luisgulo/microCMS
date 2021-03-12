@@ -1,0 +1,2 @@
+Escritorio Grafico
+Entorno Visual para manejar el S.O.

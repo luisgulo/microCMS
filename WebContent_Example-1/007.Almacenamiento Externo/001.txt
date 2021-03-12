@@ -1,0 +1,7 @@
+<b>Dispositivos de Almacenamiento Externo</b>.·
+Nos permiten almacenar la información de forma independiente del equipo en el que se generó.·
+Sirven tanto como sistema de transferencia de datos entre equipos que puedan leer los dispositivos, así como de sistemas de backup de datos de un equipo.·
+·
+Algunos tipos que nos podemos encontrar:
+
+

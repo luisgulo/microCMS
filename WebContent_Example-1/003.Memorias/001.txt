@@ -1,0 +1,9 @@
+<b>La Memoria en los ordenadores</b>·
+Todo dato, orden o instrucción que se tenga que ejecutar, copiar o mostrar en un ordenador, tiene que pasar obligatoriamente por la memoria.·
+·
+Los tipos de memoria que existen son:·
+<code>RAM</code>: Random access memory. Sus datos se pierden cuando no hay electricidad.·
+<code>ROM</code>: Read only memory. Su informacion se mantiene aunque no haya electricidad.·
+<code>eEPROM</code> y <code>EPROM</code>: Erasable programable ROM. Se puede borrar con electricidad o Rayos ultravioletas.·
+<code>Flash</code>: Permite Lectura y Escritura simultanea. Fácil de usar y borrar (se usa como BIOS o almacenamiento).·
+

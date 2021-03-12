@@ -1,0 +1,7 @@
+<b>Discos duros HDD</b>·
+·
+<code>HDD: Hard disk drive (Disco duro magnetico)</code>·
+Emplea un sistema de grababación magnética para almacenar datos digitalmente.·
+Estos datos se almacenan en una especie de discos a los que se accede mediante un cabezal para leer o escribir en ellos.·
+El tipo de conectores para comunicarse con estos discos puede ser SCSI, IDE/ATA o SATA·
+

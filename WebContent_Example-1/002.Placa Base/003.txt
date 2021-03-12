@@ -1,0 +1,43 @@
+<b>BIOS vs UEFI</b>·
+La placa base, además incluye un firmware llamado <code>BIOS</code> (Basic Input Output System), que le permite realizar las funcionalidades básicas, como pruebas de los dispositivos, vídeo y manejo del teclado, reconocimiento de dispositivos y carga del sistema operativo.·
+Actualmente las BIOS están siendo sustituidas por las denominadas <code>UEFI</code> (Unified Extensible Firmware Interface), creadas por la fundación UEFI, en la que participan: Intel, AMD, Apple, Dell, Lenovo y Microsoft entre otros...·
+·
+Debido a problemas que nos podemos encontrar con las UEFI y la Secure-UEFI, este firmware dispone de un modo <code>Legacy</code>, tambien llamado <code>'Legacy-BIOS'</code> que permite trabajar a la UEFI como una BIOS.·
+·
+<b>Tamaños de las Placas Base</b>·
+Los diseños y tamaños actuales de las placas base más usadas son: EATX, ATX, micro-ATX y mini-ITX.·
+·
+<table class="table table-hover">
+    <thead>
+      <tr>
+        <th>Placa</th>
+        <th>Tamaño cm / pulgadas</th>
+        <th>Tipo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>EATX</code></td>
+        <td>30 x 33 cm (12 x 13 pulgadas)</td>
+        <td>Placa Extendida</td>
+      </tr>
+      <tr>
+        <td><code>ATX</code></td>
+        <td>30,5 × 24,4 cm (12 x 9.6 pulgadas)</td>
+        <td>Placa Estándard</td>
+      </tr>
+      <tr>
+        <td><code>Micro-ATX</code></td>
+        <td>24,4 × 24,4 cm (9.6 x 9.6 pulgadas)</td>
+        <td>Micro-ATX-24 (uATX)</td>
+      </tr>
+      <tr>
+        <td><code>Mini-ITX</code></td>
+        <td>17 × 17 cm (6.7 x 6.7 pulgadas)</td>
+        <td>Mini-ATX-28 (mATX)</td>
+      </tr>
+    </tbody>
+  </table>
+·
+En la Wikipedia puedes ver todas las <a href="https://en.wikipedia.org/wiki/ATX#Variants">Variantes de ATX</a>
+

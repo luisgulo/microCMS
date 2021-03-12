@@ -1,0 +1,7 @@
+<code>MSDOS</code>·
+MS-DOS (MicroSoft Disk Operating System, Sistema operativo de disco de Microsoft o Microsoft DOS).·
+·
+Fue el miembro más popularmente conocido de la familia de sistemas operativos DOS de Microsoft, y el principal sistema para computadoras personales compatible con IBM PC en la década de 1980 y mediados de años 1990.·
+·
+Ha sido sustituido gradualmente por sistemas operativos que ofrecían una interfaz gráfica de usuario, en particular por varias generaciones de Microsoft Windows.·
+<hr>

@@ -1,0 +1,5 @@
+<code>Unidad de Cinta</code>:·
+Utiliza almacenamiento magnético.·
+La cinta como medio de almacenamiento seguro, de gran capacidad y con un rendimiento cada vez mejor, sigue estando en la primera posición de la elección de muchas empresas, centros de datos e incluso particulares.·
+IBM acaba de anunciar una unidad de cinta con capacidad de 15 TB sin comprimir (45 TB con compresión) con el uso de cartuchos de cinta 3592.·
+En pocos años serán hasta 5 veces más rápidas que un HDD.·

@@ -1,0 +1,12 @@
+<b>Sistemas Operativos (S.O.)</b>·
+Los sistemas operativos son programas que hacen que el hardware sea utilizable.·
+Su misión es servir de intermediario entre el usuario y el ordenador, interpretando las instrucciones del usuario y transmitiendolo al hardware.·
+Además se encarga de controlar y hacer funcionar todo el hardware y otros programas del ordenador.·
+·
+Inicialmente los sistemas operativos eran en modo texto, las órdenes se introducían desde la terminal o consola.·
+Actualmente casi todos los sistemas operativos disponen de un modo gráfico con el que se interactúa.·
+·
+<b>Sistemas Operativos en modo Texto</b>·
+
+
+

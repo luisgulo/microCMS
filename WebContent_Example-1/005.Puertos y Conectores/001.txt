@@ -1,0 +1,3 @@
+<b>Puertos</b>·
+Los puertos del ordenador son una interfaz a través de la cual se pueden enviar y recibir información en forma de datos.·
+A nivel de hardware tenemos los siguientes puertos:

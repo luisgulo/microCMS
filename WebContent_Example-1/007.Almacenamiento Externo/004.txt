@@ -1,0 +1,6 @@
+<code>Almacenamiento Óptico</code>:·
+CD, DVD o Blue Ray.·
+Los CD permiten almacenar entre 700-800 MB.·
+Los DVD tienen una capacidad de 4,7 GB. Si es de '<i>doble capa</i>' alcanza los 8,5 GB.·
+Los Blue Ray alcanzan hasta los 50 GB y los de '<i>16 capas</i>' hata los 400 GB.·
+Pueden ser de <i>Lectura (R)</i> solo se pueden grabar una vez y leerse multiples veces, o formato <i>Lectura/Escritura (RW)</i> se pueden leer y  grabar múltiples veces.·

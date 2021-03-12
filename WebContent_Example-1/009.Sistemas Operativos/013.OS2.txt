@@ -1,0 +1,5 @@
+<code>OS/2</code>·
+OS/2 es un sistema operativo de IBM que intentó suceder a DOS como sistema operativo de las computadoras personales.·
+Se desarrolló inicialmente de manera conjunta entre Microsoft e IBM, hasta que la primera decidió seguir su camino con su Windows 3.0 e IBM se ocupó en solitario de OS/2.·
+·
+Es un sistema operativo desarrollado primando la robustez, por lo que su adopción fue mucho más amplia en industria que en usuarios finales.·

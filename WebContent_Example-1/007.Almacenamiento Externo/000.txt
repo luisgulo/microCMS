@@ -1,0 +1,2 @@
+Almacenamiento Externo
+Almacenar informacion de forma independiente
