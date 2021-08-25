@@ -130,13 +130,19 @@ function menu_navegacion() {
 
 function cuadricula_directorios() {
   global $carpetasNNN;
+   $ruta_actual=getcwd();
+  $ruta_imagen=str_replace('/var/www/html','',$ruta_actual);
+  $URL=$ruta_imagen;
+   $URL=str_replace(' ', '%20', $URL);
   echo '<div class="row text-center">';
   // Recorremos directorios y mostramos
   foreach ($carpetasNNN as $c) {
+    $cRuta=str_replace(' ', '%20' , $c);
     echo ' <div class="col-lg-3 col-md-6 mb-4">
         <div class="card h-100">
-	 <a href="./' . $c . '"><img class="card-img-top" src="' . $c . '/000.png"';
-    echo ' alt=""></a>
+  <a href="'. $URL . "/" . $cRuta .'" class="btn">
+	  <img class="card-img-top" src="' . $c . '/000.png"';
+    echo ' alt="">
           <div class="card-body">
             <h4 class="card-title">';
     echo substr($c,4);
@@ -148,13 +154,17 @@ function cuadricula_directorios() {
     echo $texto;
     echo '</p>';
     echo '</div>
-          <div class="card-footer">
-	    <a href="./' . $c . '/" class="btn btn-primary">';
+	</a>
+	<!--
+          <div class="card-footer">';
+#   echo '	    <a href="./' . $c . '/" class="btn btn-primary">';
+    echo '	    <a href="./' . $URL . "/" . $cRuta . '/" class="btn btn-primary">';
     echo substr($c,4);
     echo '</a>
-          </div>
+	  </div>
+     -->
         </div>
-	</div> ';
+    </div> ';
   }
   echo '</div>';
 }
@@ -292,6 +302,5 @@ if ( ! $resultadoBuscar) {
   <!-- Bootstrap core JavaScript -->
   <script src="/css/jquery/jquery.min.js"></script>
   <script src="/css/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <!-- Micro CMS creado por LuisGulo -->
 </body>
 </html>
