@@ -1,7 +1,9 @@
-FROM debian:buster
+FROM debian:bullseye
+# About
+LABEL maintainer="SoloConLinux - Luis Gu:Lo <luisgulo@soloconlinux.org.es>"
 # Todo actualizado
 RUN apt -y update; apt -y upgrade
-RUN apt -y install php7.3 apache2 vim locales
+RUN apt -y install php7.4 apache2 vim locales
 # Locales para es_ES
 RUN sed -i '/es_ES.UTF-8/s/^# //g' /etc/locale.gen && \
     locale-gen
