@@ -9,7 +9,7 @@ The container will run with the name 'web'
 
 Enter the command:
 ~~~
- docker run -d -ti --name web -p 8088:80 -v WEB:/var/www/html:rw luisgutierrez/webcmsserver:1.0
+ docker run -d -ti --name web -p 8088:80 -v WEB:/var/www/html:rw luisgutierrez/webcmsserver:2.0
 ~~~
 
 **LOCATE VOLUME**
@@ -19,10 +19,15 @@ To locate where the volume is mounted, run the following command:
  docker inspect web |grep -i volume|grep -i source
 ~~~
 
-** HOWTO PUBLISH**
+**TAGs**
+1.0 - Debian 10 buster   + Apache 2 + PHP 7.3
+2.0 - Debian 11 bullseye + Apache 2 + PHP 7.4
+
+**HOWTO PUBLISH**
 
 To create your website pages, check the documentation at:
 [Documentation on how to publish](https://soloconlinux.org.es/007.Colaboradores/normas/ejemplo/)
+
 
 Note: You need to create a directory structure, which must start with 3 digits and a period followed by the text you want.
 
