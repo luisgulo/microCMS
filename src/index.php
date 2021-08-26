@@ -89,12 +89,12 @@ function imagen_texto($fimagen="", $ftexto="") {
             <div class="image-wrapper float-left pr-3">';	
   echo '        <img class="img-fluid thumbnail pr-2" src="' . $fimagen . '" alt=""  style="max-width:350px;">
             </div>';
-  echo '<!-- <div class="single-post-content-wrapper"> --><blockquote class="blockquote text-justify">';
+  echo '<blockquote class="blockquote text-justify">';
   // Leer fichero
   $texto=file_get_contents($ftexto);
   $texto= str_replace("·", "<br>",$texto);
   echo $texto;	  
-  echo '</blockquote> <!-- </div> -->
+  echo '</blockquote> 
         </div>
     </article>';
 }
@@ -148,22 +148,13 @@ function cuadricula_directorios() {
     echo substr($c,4);
     echo '</h4>';
     echo '<p class="card-text">';
-    //descripcion($c);
     $texto=file_get_contents($c."/000.txt");
     $texto=str_replace("..", ".<br>",$texto);
     echo $texto;
     echo '</p>';
     echo '</div>
-	</a>
-	<!--
-          <div class="card-footer">';
-#   echo '	    <a href="./' . $c . '/" class="btn btn-primary">';
-    echo '	    <a href="./' . $URL . "/" . $cRuta . '/" class="btn btn-primary">';
-    echo substr($c,4);
-    echo '</a>
-	  </div>
-     -->
-        </div>
+	  </a>';
+    echo '</div>
     </div> ';
   }
   echo '</div>';
@@ -192,7 +183,6 @@ function jumbotron_titulo() {
   titulo();
   echo '</h1> <p class="lead"> ';
   descripcion();
- //echo '</h1> </header> ';
   echo '</header> ';
 }
 
