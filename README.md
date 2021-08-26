@@ -20,8 +20,11 @@ To locate where the volume is mounted, run the following command:
 ~~~
 
 **TAGs**
+
+~~~
 1.0 - Debian 10 buster   + Apache 2 + PHP 7.3
 2.0 - Debian 11 bullseye + Apache 2 + PHP 7.4
+~~~
 
 **HOWTO PUBLISH**
 
